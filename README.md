@@ -1,6 +1,8 @@
 # EzMemoryTest
 This tool allows you to quickly test your memory.
 
+![screenshot2](https://github.com/SheMelody/ez-memory-test/assets/20774468/3ab6fa1b-dbbc-46be-b722-fb7bb240c371)
+
 This is a process involving the following steps:
 - Generating 1 GB of random data into your RAM
 - Saving the data to disk
