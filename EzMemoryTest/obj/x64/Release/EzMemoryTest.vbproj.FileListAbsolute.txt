@@ -1,0 +1,12 @@
+D:\VSProjects\EzMemoryTest\EzMemoryTest\bin\x64\Release\EzMemoryTest.exe.config
+D:\VSProjects\EzMemoryTest\EzMemoryTest\bin\x64\Release\EzMemoryTest.exe
+D:\VSProjects\EzMemoryTest\EzMemoryTest\bin\x64\Release\EzMemoryTest.pdb
+D:\VSProjects\EzMemoryTest\EzMemoryTest\bin\x64\Release\EzMemoryTest.xml
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.vbproj.AssemblyReference.cache
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.vbproj.SuggestedBindingRedirects.cache
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.Resources.resources
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.vbproj.GenerateResource.cache
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.vbproj.CoreCompileInputs.cache
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.exe
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.xml
+D:\VSProjects\EzMemoryTest\EzMemoryTest\obj\x64\Release\EzMemoryTest.pdb
