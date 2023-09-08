@@ -12,7 +12,7 @@ This is a process involving the following steps:
 - Comparing the imported data with the previous data that is still stored into your RAM
 
 You can optionally provide two positional arguments:
-- The first argument tells the path in which make temporary files, it may otherwise create them inside the current working directory
+- The first argument tells the path in which to make temporary files, it may otherwise create them inside the current working directory
 - The second argument can be provided as any string to tell the program to not run in "interactive" mode, which means it won't hang waiting for user input
 
 Either way, keep in mind that the program exits with code 1 (instead of 0) if the test fails.
