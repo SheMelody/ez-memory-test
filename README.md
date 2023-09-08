@@ -11,6 +11,12 @@ This is a process involving the following steps:
 - Re-importing the data into memory
 - Comparing the imported data with the previous data that is still stored into your RAM
 
+You can optionally provide two positional arguments:
+- The first argument tells the path in which make temporary files, it may otherwise create them inside the current working directory
+- The second argument can be provided as any string to tell the program to not run in "interactive" mode, which means it won't hang waiting for user input
+
+Either way, keep in mind that the program exits with code 1 (instead of 0) if the test fails.
+
 ### Don't use this as an extensive memory test. This test is designed to simply test whether this task survives, since errors in compression and decompression are frequent with bad RAM overclocks.
 
 Our Discord server: http://discord.gg/6TMHU63
